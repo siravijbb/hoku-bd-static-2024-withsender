@@ -28,6 +28,8 @@
     "autoprefixer": "10.4.14",
     "class-transformer": "^0.5.1",
     "class-validator": "^0.14.0",
+    "flowbite": "^2.0.0",
+    "flowbite-react": "^0.6.4",
     "luxon": "^3.3.0",
     "mime-types": "^2.1.35",
     "next": "13.4.10",
